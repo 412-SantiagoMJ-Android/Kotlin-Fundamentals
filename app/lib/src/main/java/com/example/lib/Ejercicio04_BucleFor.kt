@@ -14,6 +14,7 @@ fun main() {
 
     // TODO: Usa un for con el rango 1..10 e imprime cada linea
     for (i in 1..10) {
+        println("$numero x $i = ${numero * i}")
         // Imprime: "$numero x $i = ${numero * i}"
     }
 }
